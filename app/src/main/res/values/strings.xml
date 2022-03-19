@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grupo-6-Semana-9</string>
+    <string name="nom">Nombre</string>
+    <string name="tele">Telefono</string>
+    <string name="corre">Correo Electronico</string>
+    <string name="boto">Guardar Registro</string>
+    <string name="nue">Nuevo Registro</string>
+</resources>
